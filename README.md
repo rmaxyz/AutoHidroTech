@@ -33,3 +33,6 @@ Bem-vindo ao repositório do projeto Autohidrotech! Este projeto tem como objeti
 3.Ajuste as configurações conforme necessário.
 4.Monitore regularmente os níveis de pH, condutividade elétrica e TDS.
 5.Aproveite uma horta hidropônica automatizada e de alto desempenho!
+# Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, enviar solicitações de pull ou fornecer melhorias para o projeto. 
+
