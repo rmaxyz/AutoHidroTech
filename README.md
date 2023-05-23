@@ -28,11 +28,11 @@ Bem-vindo ao repositório do projeto Autohidrotech! Este projeto tem como objeti
 7. Realize as conexões adequadas entre o ESP32, sensores e atuadores conforme o esquema fornecido.
 8. Configure as credenciais de rede Wi-Fi e as preferências de configuração no código.
 # Uso 
-1.Ligue o sistema e aguarde a inicialização.
-2.Acompanhe as informações no display LCD ou acesse o aplicativo móvel (Blynk) para visualizar os dados remotamente.
-3.Ajuste as configurações conforme necessário.
-4.Monitore regularmente os níveis de pH, condutividade elétrica e TDS.
-5.Aproveite uma horta hidropônica automatizada e de alto desempenho!
+1. Ligue o sistema e aguarde a inicialização.
+2. Acompanhe as informações no display LCD ou acesse o aplicativo móvel (Blynk) para visualizar os dados remotamente.
+3. Ajuste as configurações conforme necessário.
+4. Monitore regularmente os níveis de pH, condutividade elétrica e TDS.
+5. Aproveite uma horta hidropônica automatizada e de alto desempenho!
 # Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, enviar solicitações de pull ou fornecer melhorias para o projeto. 
 
