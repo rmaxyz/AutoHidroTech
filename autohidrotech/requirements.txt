@@ -1,0 +1,8 @@
+
+Arduino IDE - https://github.com/arduino/arduino-ide
+
+Bibliotecas
+Como instalar uma biblioteca no Arduino IDE - https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries#.UxU8mdzF9H0
+Blynk - https://github.com/blynkkk/blynk-library
+Display LCD - https://github.com/johnrickman/LiquidCrystal_I2C
+Sensor PH - https://github.com/DFRobot/DFRobot_PH/archive/master.zip
